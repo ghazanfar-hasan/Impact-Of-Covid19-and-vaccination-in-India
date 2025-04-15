@@ -1,5 +1,6 @@
 
-![lending-tracker-fullsize-istock-1213355637](https://github.com/user-attachments/assets/f5ae3c47-cbb0-4721-8f0d-023683439ef6)
+![cS92HiGxNC7NYVUVfvpJ_1695983109063](https://github.com/user-attachments/assets/904bd026-2e4d-4259-82aa-c2f0c2cecf08)
+
 
 
 • Performed data exploration and querying using SQL, extracting insights from large datasets (e.g., 85,000+ rows) including total cases, deaths, and vaccination rates across countries and continents.
